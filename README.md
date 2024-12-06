@@ -1,1 +1,1 @@
-Blah
+# Galois last duel
